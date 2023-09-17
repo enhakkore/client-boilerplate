@@ -1,5 +1,6 @@
 {
-  "name": "client-boilerplate",
+  "name": "webpack4-react17",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
